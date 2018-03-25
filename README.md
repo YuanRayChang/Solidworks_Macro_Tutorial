@@ -54,6 +54,13 @@ And see the file "Module1.vb" with 4 lines.
 
 Before doing anything, we must do the following steps in order to successfully run the project.
 
-D:\Solidworks_Macro\Macro_demo\Macro_demo\bin\Debug
+You must puts two files in the project folder.
+
+In my case it is: `D:\Solidworks_Macro\Macro_demo\Macro_demo\bin\Debug`
+
+Go to project -> properties -> reference path 
+
+click "add". And add 
+
 
 
