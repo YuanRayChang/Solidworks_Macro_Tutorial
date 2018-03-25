@@ -40,9 +40,20 @@ a .swp file, a vb.net folder, a csharp folder will be createrd.
 ![](image/macro_files.PNG)
 
 ### Start Visual Studio:
-start Visual Studio, and  add a new Visual Basic project. Just like the figure shown below.
+Start Visual Studio, and  add a new Visual Basic project. Just like the figure shown below.
 
 (Sorry that I don't have an English version)
 
 <img src="image/vs.PNG" width="800">
+
+So I created a VB project called "Macro_demo". 
+
+And see the file "Module1.vb" with 4 lines.
+
+<img src="image/init.PNG" width="800">
+
+Before doing anything, we must do the following steps in order to successfully run the project.
+
+D:\Solidworks_Macro\Macro_demo\Macro_demo\bin\Debug
+
 
