@@ -9,13 +9,15 @@ Someone like me want to use an .exe file, so that I can call the macro directly 
 
 
 ---
-### Software I used:
+## Software I used:
 * Solidworks 2017
 * Visual Studio 2013
-I think it's not necessary to use the exact same version.
+I think the sortware version does'nt matter.
 
 ---
-### Tutorial starts by here:
+## Tutorial starts by here:
+
+### Start Solidworks:
 The first step is click the start macro button, then you can record everything you need.
 
 ![](image/start.PNG)
@@ -36,4 +38,8 @@ After recording a macro, you should save it as
 a .swp file, a vb.net folder, a csharp folder will be createrd.
 
 ![](image/macro_files.PNG)
+
+### Start Visual Studio:
+
+
 
