@@ -54,9 +54,14 @@ And see the file "Module1.vb" with 4 lines.
 
 Before doing anything, we must do the following steps in order to successfully run the project.
 
-You must puts two files in the project folder.
+You must puts two files in the project folder. 
+In my case  it is: `D:\Solidworks_Macro\Macro_demo\Macro_demo\bin\Debug`
+### Two files:
+* SolidWorks.Interop.SldWorks.dll 
+* SolidWorks.Interop.swconst.dll
 
-In my case it is: `D:\Solidworks_Macro\Macro_demo\Macro_demo\bin\Debug`
+Actually, I forgot where did I get these files. Perhaps on the internet. So if you don't have those file you can use mine.
+
 
 Go to project -> properties -> reference path 
 
