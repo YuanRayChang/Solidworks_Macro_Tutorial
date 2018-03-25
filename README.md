@@ -68,10 +68,12 @@ Click "add"
 
 <img src="image/ref.PNG" width="800">
 
+
 Go to browse, and select the two files:
 * SolidWorks.Interop.SldWorks.dll 
 * SolidWorks.Interop.swconst.dll
 <img src="image/path.PNG" width="800">
+
 
 Go to "COM", and select two libraries:
 * SldWorks 2017 Type Library
