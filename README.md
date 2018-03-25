@@ -40,6 +40,9 @@ a .swp file, a vb.net folder, a csharp folder will be createrd.
 ![](image/macro_files.PNG)
 
 ### Start Visual Studio:
+start Visual Studio, and  add a new Visual Basic project. Just like the figure shown below.
 
+(Sorry that I don't have an English version)
 
+<img src="image/vs.png" width="800">
 
