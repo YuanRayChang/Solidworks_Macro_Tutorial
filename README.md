@@ -16,7 +16,10 @@ I think it's not necessary to use the exact same version.
 
 ---
 ### Tutorial starts by here:
+The first step is click the start macro button, then you can record everything you need.
+
 After recording a macro, you should save it as 
 `SW ALL Macros Types (*.swp;*.csproj;*.vbproj)`
 
-![](image) 
+<img src="image/save_as.png" width="800">
+
