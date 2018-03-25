@@ -64,20 +64,23 @@ Actually, I forgot where did I get these files. Perhaps on the internet. So if y
 
 Go to project -> properties -> reference path 
 
-Click "add"
+### Click "add"
 
 <img src="image/ref.PNG" width="800">
 
-
-Go to browse, and select the two files:
+---
+### Go to browse, and select the two files:
 * SolidWorks.Interop.SldWorks.dll 
 * SolidWorks.Interop.swconst.dll
 <img src="image/path.PNG" width="800">
 
-
-Go to "COM", and select two libraries:
+---
+### Go to "COM", and select two libraries:
 * SldWorks 2017 Type Library
 * SOLIDWORKS2017 Constant type library
 <img src="image/path2.PNG" width="800">
 
+---
+As a result, we added 4 things. Like the figure shown below.
 
+<img src="image/path_4.PNG" width="800">
