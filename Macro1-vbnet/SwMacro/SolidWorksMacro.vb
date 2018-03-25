@@ -5,9 +5,6 @@ Imports System
 Partial Class SolidWorksMacro
 
     Public Sub main()
-
-
-            
             Dim swDoc As ModelDoc2 = Nothing
             Dim swPart As PartDoc = Nothing
             Dim swDrawing As DrawingDoc = Nothing
