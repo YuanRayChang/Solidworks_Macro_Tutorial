@@ -108,8 +108,20 @@ swApp = New SldWorks.SldWorks()
 'When set "swApp.Visible" as "False", Solidworks won't pop out while running the macro
 'When set "swApp.Visible" as "True", it is easier to debug while running the macro
 swApp.Visible = True
-
 ```
 
 And the file becomes:
 <img src="image/init_code.PNG">
+
+===
+Go to the Macros we recorded at the beginning.
+
+Inside the folder `Macro1-vbnet`.
+
+In my case, open the file, `SolidWorksMacro.vb`, inside `D:\Solidworks_Macro\Macro1-vbnet\SwMacro`.
+
+Copy the codes between `Public Sub main()` and `End Sub`
+
+<img src="image/vb.PNG" width="800">
+
+
