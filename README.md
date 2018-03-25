@@ -88,14 +88,14 @@ As a result, we added 4 things. Like the figure shown below.
 Let's go back to the file "Module1.vb", and do the rest of the things.
 
 We have to put the following lines into the file.
-```
+```vbnet
 Imports SolidWorks.Interop.sldworks
 Imports SolidWorks.Interop.swconst
 Imports System
 Imports System.IO
 ```
 
-```
+```vbnet
 Dim swDoc As ModelDoc2 = Nothing
 Dim swPart As PartDoc = Nothing
 Dim swDrawing As DrawingDoc = Nothing
