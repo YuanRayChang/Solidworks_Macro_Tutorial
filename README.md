@@ -105,8 +105,8 @@ Dim longstatus As Integer = 0
 Dim longwarnings As Integer = 0
 Dim swApp As SldWorks.SldWorks
 swApp = New SldWorks.SldWorks()
-'When set "swApp.Visible" as "False", Solidworks won't pop out when running the macro
-'When set "swApp.Visible" as "True", It is easier to debug when running the macro
+'When set "swApp.Visible" as "False", Solidworks won't pop out while running the macro
+'When set "swApp.Visible" as "True", it is easier to debug while running the macro
 swApp.Visible = True
 
 ```
