@@ -62,10 +62,17 @@ In my case  it is: `D:\Solidworks_Macro\Macro_demo\Macro_demo\bin\Debug`
 
 Actually, I forgot where did I get these files. Perhaps on the internet. So if you don't have those file you can use mine.
 
-
 Go to project -> properties -> reference path 
 
-click "add". And add 
+Click "add"
+<img src="image/ref.PNG" width="800">
 
+Go to browse, and select the two files:
+* SolidWorks.Interop.SldWorks.dll 
+* SolidWorks.Interop.swconst.dll
+<img src="image/path.PNG" width="800">
 
-
+Go to "COM", and select two libraries:
+* SldWorks 2017 Type Library
+* SOLIDWORKS2017 Constant type library
+<img src="image/pat2h.PNG" width="800">
