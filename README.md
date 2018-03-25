@@ -44,5 +44,5 @@ start Visual Studio, and  add a new Visual Basic project. Just like the figure s
 
 (Sorry that I don't have an English version)
 
-<img src="image/vs.png" width="800">
+<img src="image/vs.PNG" width="800">
 
