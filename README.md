@@ -84,3 +84,32 @@ Go to project -> properties -> reference path
 As a result, we added 4 things. Like the figure shown below.
 
 <img src="image/path_4.PNG" width="800">
+---
+Let's go back to the file "Module1.vb", and do the rest of the things.
+
+We have to put the following lines into the file.
+```
+Imports SolidWorks.Interop.sldworks
+Imports SolidWorks.Interop.swconst
+Imports System
+Imports System.IO
+```
+
+```
+Dim swDoc As ModelDoc2 = Nothing
+Dim swPart As PartDoc = Nothing
+Dim swDrawing As DrawingDoc = Nothing
+Dim swAssembly As AssemblyDoc = Nothing
+Dim boolstatus As Boolean = False
+Dim longstatus As Integer = 0	
+Dim longwarnings As Integer = 0
+Dim swApp As SldWorks.SldWorks
+swApp = New SldWorks.SldWorks()
+'When set "swApp.Visible" as "False", Solidworks won't pop out when running the macro
+'When set "swApp.Visible" as "True", It is easier to debug when running the macro
+swApp.Visible = True
+
+```
+
+And the file becomes:
+<img src="image/init_code.PNG">
