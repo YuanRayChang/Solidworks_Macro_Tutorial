@@ -17,15 +17,23 @@ I think it's not necessary to use the exact same version.
 ---
 ### Tutorial starts by here:
 The first step is click the start macro button, then you can record everything you need.
-![]("image/start.PNG")
 
-In my case, I draw a cuboid
+![](image/start.PNG)
 
-Finally, click the stop button
-![]("image/end.PNG")
+
+In my case, I draw a cuboid.
+
+
+Finally, click the stop button.
+
+![](image/end.PNG)
 
 After recording a macro, you should save it as 
 `SW ALL Macros Types (*.swp;*.csproj;*.vbproj)`
 
 <img src="image/save_as.png" width="800">
+
+a .swp file, a vb.net folder, a csharp folder will be createrd.
+
+![](image/macro_files.PNG)
 
