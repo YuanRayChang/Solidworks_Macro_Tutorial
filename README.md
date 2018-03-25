@@ -17,6 +17,12 @@ I think it's not necessary to use the exact same version.
 ---
 ### Tutorial starts by here:
 The first step is click the start macro button, then you can record everything you need.
+![]("image/start.PNG")
+
+In my case, I draw a cuboid
+
+Finally, click the stop button
+![]("image/end.PNG")
 
 After recording a macro, you should save it as 
 `SW ALL Macros Types (*.swp;*.csproj;*.vbproj)`
