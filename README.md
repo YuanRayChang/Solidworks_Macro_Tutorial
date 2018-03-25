@@ -65,6 +65,7 @@ Actually, I forgot where did I get these files. Perhaps on the internet. So if y
 Go to project -> properties -> reference path 
 
 Click "add"
+
 <img src="image/ref.PNG" width="800">
 
 Go to browse, and select the two files:
@@ -75,4 +76,6 @@ Go to browse, and select the two files:
 Go to "COM", and select two libraries:
 * SldWorks 2017 Type Library
 * SOLIDWORKS2017 Constant type library
-<img src="image/pat2h.PNG" width="800">
+<img src="image/path2.PNG" width="800">
+
+
