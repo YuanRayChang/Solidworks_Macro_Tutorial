@@ -134,8 +134,12 @@ In my case my .exe file is called `Macro_demo.exe`.
 
 ---
 ## Something More Advanced
-You can change `Sub Main()` to `Public Sub main(ByVal ParamArray args() As String)`, 
+### Input parameters to the .exe file from command window
+You just simply change `Sub Main()` to `Public Sub main(ByVal ParamArray args() As String)`, 
 So that you can **input parameters** to the .exe file from command window.
+
+Why am I doing this? Because in my other project, I use Matlab to call command window and input the design parameters
+. So as to automatically make new design in Solidworks.  
 
 <img src="image/change.PNG" width="800">
 
