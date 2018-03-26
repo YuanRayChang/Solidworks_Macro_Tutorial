@@ -134,7 +134,11 @@ In my case my .exe file is called `Macro_demo.exe`.
 
 ---
 ## Something More Advanced
-You can change `Sub Main()` to `Public Sub main(ByVal ParamArray args() As String)`.
+You can change `Sub Main()` to `Public Sub main(ByVal ParamArray args() As String)`, 
 So that you can **input parameters** to the .exe file from command window.
 
-<img src="image/change.PNG">
+<img src="image/change.PNG" width="800">
+
+for example, I can type somthing like this: `Macro_demo.exe 1 2 3 4 5`
+
+Which means I input 5 parameters, `1 2 3 4 5`, to `Macro_demo.exe`.
