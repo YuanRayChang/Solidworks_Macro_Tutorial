@@ -35,7 +35,7 @@ After recording a macro, you should save it as
 
 <img src="image/save_as.png" width="800">
 
-a .swp file, a vb.net folder, a csharp folder will be createrd.
+1 .swp file, 1 vb.net folder, 1 csharp folder will be createrd.
 
 ![](image/macro_files.PNG)
 
@@ -81,9 +81,11 @@ Go to project -> properties -> reference path
 <img src="image/path2.PNG" width="800">
 
 ---
+
 As a result, we added 4 things. Like the figure shown below.
 
 <img src="image/path_4.PNG" width="800">
+
 ---
 Let's go back to the file "Module1.vb", and do the rest of the things.
 
@@ -120,6 +122,7 @@ Copy the code between `Public Sub main()` and `End Sub`
 Paste it to `Module1.vb` just below `swApp.Visible = True`
 
 <img src="image/final_code.PNG" width="800">
+
 ---
 Finally, you can run it. In my experience, the macro recorded from Solidworks, sometimes can't work.
 
