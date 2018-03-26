@@ -3,7 +3,7 @@ In this tutorial, I will show the process of how to make an .exe file using VB.n
 
 Because there is little information on the internet. So I decided to write one.
 
-Many other tutorials have tought the way to record a macro, and run the macro on Solidworks. However, this is not enough.
+Many other tutorials have taught the way to record a macro, and run the macro on Solidworks. However, this is not enough.
 
 Someone like me want to use an .exe file, so that I can call the macro directly by command window, instead of Solidworks.
 
