@@ -96,13 +96,6 @@ Imports System.IO
 ```
 
 ```vbnet
-Dim swDoc As ModelDoc2 = Nothing
-Dim swPart As PartDoc = Nothing
-Dim swDrawing As DrawingDoc = Nothing
-Dim swAssembly As AssemblyDoc = Nothing
-Dim boolstatus As Boolean = False
-Dim longstatus As Integer = 0	
-Dim longwarnings As Integer = 0
 Dim swApp As SldWorks.SldWorks
 swApp = New SldWorks.SldWorks()
 'When set "swApp.Visible" as "False", Solidworks won't pop out while running the macro
