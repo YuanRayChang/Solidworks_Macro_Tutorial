@@ -9,13 +9,13 @@ Someone like me want to use an .exe file, so that I can call the macro directly 
 
 
 ---
-## Software I used:
+## Software I Used:
 * Solidworks 2017
 * Visual Studio 2013
 I think the sortware version does'nt matter.
 
 ---
-## Tutorial starts by here:
+## Tutorial Starts By Here:
 
 ### Start Solidworks:
 The first step is click the start macro button, then you can record everything you need.
@@ -120,3 +120,14 @@ Copy the code between `Public Sub main()` and `End Sub`
 Paste it to `Module1.vb` just below `swApp.Visible = True`
 
 <img src="image/final_code.PNG" width="800">
+---
+Finally, you can run it. In my experience, the macro recorded from Solidworks, sometimes can't work.
+
+Which is cause by some redundant code recorded by Solidworks. So you should debug and make sure everything works fine.
+
+Once it is all done, you can find the .exe file inside the folder `D:\Solidworks_Macro\Macro_demo\Macro_demo\bin\Debug`
+
+In my case my .exe file is called `Macro_demo.exe`.
+
+---
+## Something Advanced
