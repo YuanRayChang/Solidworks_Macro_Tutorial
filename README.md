@@ -133,4 +133,8 @@ Once it is all done, you can find the .exe file inside the folder `D:\Solidworks
 In my case my .exe file is called `Macro_demo.exe`.
 
 ---
-## Something Advanced
+## Something More Advanced
+You can change `Sub Main()` to `Public Sub main(ByVal ParamArray args() As String)`.
+So that you can **input parameters** to the .exe file from command window.
+
+<img src="image/change.PNG">
